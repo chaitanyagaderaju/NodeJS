@@ -1,0 +1,7 @@
+{
+    "name": "chaitanya",
+    "version": "latest",
+    "devDependencies": {
+        "@types/node": "^18.11.12"
+    }
+}
